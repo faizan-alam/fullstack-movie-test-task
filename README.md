@@ -22,8 +22,9 @@ npm start
 
 You can view the deployed application here:
 
-[Live Demo](http://20.13.172.79:3000/)
-[Live Demo](https://temp-movie-blue.vercel.app)
+[Live Demo Azure](http://20.13.172.79:3000/)
+
+[Live Demo Vercel](https://temp-movie-blue.vercel.app)
 
 ## Features (Things I would be doing if I had more time)
 
